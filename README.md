@@ -8,7 +8,7 @@
 
 ## 👋 Olá, eu sou o Daniel!
 
-Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia e adoro explorar o mundo do desenvolvimento de software. Tenho um forte interesse no desenvolvimento de back-end e estou sempre aprendendo e me aprimorando. Estou animado para colaborar em projetos interessantes e desafiadores, e fazer parte da comunidade de desenvolvedores.
+Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia e de explorar o mundo do desenvolvimento de software. Tenho um forte interesse no desenvolvimento de back-end e estou sempre aprendendo e me aprimorando. Estou animado para colaborar em projetos interessantes e desafiadores, e fazer parte da comunidade de desenvolvedores.
 
 </div>
 
