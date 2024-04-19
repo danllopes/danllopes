@@ -40,7 +40,7 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia e de explorar o
 
 ### 🗄️ Banco de Dados
 
-![MySQL](https://github.com/danllopes/danllopes/assets/167463660/121c7089-c510-49f4-bb45-a7b793a619a2)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 ### 🧰 Dev Tools
 
