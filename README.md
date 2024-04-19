@@ -47,6 +47,7 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia e de explorar o
 ![IntelliJ_IDEA-000000](https://github.com/danllopes/danllopes/assets/167463660/f1f3befc-d75c-458f-bfd6-cbd65ed25806)&nbsp;
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)&nbsp;
 
 </div>
 
